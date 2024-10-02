@@ -34,4 +34,4 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-⭐️ From [Gibral Thariq Alfaruq](https://github.com/todyandtod)
+⭐️ From [Gibral Thariq Alfaruq](https://github.com/thoriq919)
